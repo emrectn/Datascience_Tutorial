@@ -10,3 +10,6 @@
 ![image](https://user-images.githubusercontent.com/29972884/69809160-382a1680-11fa-11ea-8de8-1bddf55fd5aa.png)
 ### Padding, Resize and square Image
 ![image](https://user-images.githubusercontent.com/29972884/69808957-c651cd00-11f9-11ea-8fd5-20d4f71ab8c9.png)
+
+# Images Augmentation for Deep Learning with Keras
+![image](https://user-images.githubusercontent.com/29972884/69809507-f188ec00-11fa-11ea-8e6a-414b6eb6a80c.png)
